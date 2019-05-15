@@ -1,12 +1,16 @@
 [
   {
-    
+
     "lat":"-7.953240",
     "lng":"112.642143",
     "nama":"Bakso Kota Cak Man",
     "keterangan" : "Bakso Paling endes se malang raya",
     "alamat" :"Jl. Ciliwung, Purwantoro, Blimbing, Kota Malang, Jawa Timur",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/cm.jpg",
+    "hours" : "10.30 AM - 9.30 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span>"
+
 
   },
   {
@@ -15,7 +19,10 @@
     "nama":"Bakso President",
     "keterangan" : "Presiden Pernah mampir kesini",
     "alamat" :"Jl. Batanghari No.5, Rampal Celaket, Klojen, Kota Malang, Jawa Timur",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/presiden.jpg",
+    "hours" : "8.30 AM - 9.30 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span>"
   },
   {
     "lat":"-7.941157",
@@ -23,7 +30,10 @@
     "nama":"Bakso Bakar Trowulan",
     "keterangan" : "Bakso Paling bakar paling hot",
     "alamat" :"Jl. C.Trowulan No.65, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/trowulan.jpeg",
+    "hours" : "10.00 AM - 7.00 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
   },
   {
     "lat":"-7.944856",
@@ -31,7 +41,10 @@
     "nama":"Bakso Urat Cak NONO",
     "keterangan" : "Rumahnya Bakso",
     "alamat" :"Jl. Gajayana, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/caknono.jpeg",
+    "hours" : "12.30 AM - 6.00 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
   {
@@ -40,7 +53,10 @@
     "nama":"Bakso Boedjangan Malang",
     "keterangan" : "Setelah makan ini langsung tidak jadi bujangan",
     "alamat" :"Jl. Ciliwung No.44, Purwantoro, Blimbing, Kota Malang, Jawa Timur 65126",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/bujangan.jpg",
+    "hours" : "12.00 PM - 10.30 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
   {
@@ -49,7 +65,10 @@
     "nama":"Bakso Gun Malang",
     "keterangan" : "Bakso Tembak",
     "alamat" :"Jalan Kawi Atas No.41 A, Bareng, Klojen, Kauman, Klojen, Kota Malang, Jawa Timur 65116",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/gun.jpeg",
+    "hours" : "10.00 AM - 9.00 PM",
+    "rating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
   {
@@ -58,7 +77,10 @@
     "nama":"Bakso Bakar Pahlawan Trip",
     "keterangan" : "Bakso nya pahlawan",
     "alamat" :"Jl. Pahlawan Trip, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65145",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/pahlawan.jpeg",
+    "hours" : "9.00 AM - 11.30 PM",
+    "rating" : "</span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
   {
@@ -67,7 +89,10 @@
     "nama":"Bakso Gondhol",
     "keterangan" : "Bakso Babi",
     "alamat" :"Jl. Sunandar Priyo Sudarmo No.31, Blimbing, Kota Malang, Jawa Timur 65125",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/gondhol.jpg",
+    "hours" : "10.00 AM - 7.00 PM",
+    "rating" : "</span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
   {
@@ -76,25 +101,23 @@
     "nama":"BAKSO BAKAR SS",
     "keterangan" : "Bakso ScreenShot",
     "alamat" :"Jl. Kolonel Sugiono No.191, Mergosono, Kedungkandang, Kota Malang, Jawa Timur 65134",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/ss.jpg",
+    "hours" : "12.00 PM - 12.00 AM",
+    "rating" : "</span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   },
-  {
-    "lat":"-8.001257",
-    "lng":"112.631431",
-    "nama":"BAKSO BAKAR SS",
-    "keterangan" : "Bakso ScreenShot",
-    "alamat" :"Jl. Kolonel Sugiono No.191, Mergosono, Kedungkandang, Kota Malang, Jawa Timur 65134",
-    "type" : "parking"
 
-  },
   {
     "lat":"-7.945515",
     "lng":"112.611411",
     "nama":"Bakso Malang Mr.Bond",
     "keterangan" : "Bakso James Bond",
     "alamat" :"No.4 Malang RT.3 RW.4 Oos-Java ID 65145, Jl. Kerto Raharjo, Ketawanggede, Lowokwaru, Malang City, East Java 65145",
-    "type" : "parking"
+    "type" : "parking",
+    "img" : "img/bond.jpeg",
+    "hours" : "12.00 PM - 8.00 AM",
+    "rating" : "</span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'>"
 
   }
 
